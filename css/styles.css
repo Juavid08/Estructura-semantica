@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(20, 96, 96);
+}
+.morado {
+    background-color: purple;
+}
+
+.altura1 {
+    height: 100px;
+}
+
+.centrar{
+    display: flex;
+    justify-content: center;
+}
+button {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    border-radius: 8px;
+}
+.altura2 {
+    height: 50px;
+}
+.amarillo {
+    background-color: rgb(255, 200, 0);
+}
+.verde {
+    background-color: rgb(92, 156, 33);
+}
+.altura3 {
+    height: 150px;
+}
+.naranja {
+    background-color: orange;
+}
+.verdeoscuro {
+    background-color: green;
+}
+.rosado {
+    background-color: palevioletred;
+}
+.azul{
+    background-color: rgb(25, 102, 173);
+}
+
+.altura4 {
+    height: 150px;
+}
